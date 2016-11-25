@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<module configVersion="1.2">
+
+	<!-- Module Properties -->
+	<id>bkkhconfig</id>
+	<name>Bkkh Configurations Module</name>
+	<version>1.0-SNAPSHOT</version>
+	<package>org.openmrs.module.bkkhconfig</package>
+	<author>Nicholas Ingosi Magaja</author>
+	<description>
+		Helps in setting up the requiremnts for bkkh
+	</description>
+	<updateURL>https://modules.openmrs.org/modules/download/bkkhconfig/update.rdf</updateURL>
+	<require_version>1.9.8</require_version>
+	<!-- / Module Properties -->
+
+	
+	<!-- Module Activator -->
+	<activator>org.openmrs.module.bkkhconfig.BkkhConfigurationsActivator</activator>
+	
+	
+	<!-- Maps hibernate file's, if present -->
+	<mappingFiles>
+				
+		BkkhConfigurations.hbm.xml
+				
+	</mappingFiles>
+
+	<!-- Internationalization -->
+	<!-- All message codes should start with bkkhconfig. -->
+	<messages>
+		<lang>en</lang>
+		<file>messages.properties</file>
+	</messages>
+	<messages>
+		<lang>fr</lang>
+		<file>messages_fr.properties</file>
+	</messages>
+	<messages>
+		<lang>es</lang>
+		<file>messages_es.properties</file>
+	</messages>
+	<!-- /Internationalization -->
+
+</module>
+

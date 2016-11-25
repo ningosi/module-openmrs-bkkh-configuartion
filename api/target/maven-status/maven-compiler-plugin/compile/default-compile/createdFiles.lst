@@ -1,0 +1,6 @@
+org/openmrs/module/bkkhconfig/api/impl/BkkhConfigurationsServiceImpl.class
+org/openmrs/module/bkkhconfig/api/db/hibernate/HibernateBkkhConfigurationsDAO.class
+org/openmrs/module/bkkhconfig/api/BkkhConfigurationsService.class
+org/openmrs/module/bkkhconfig/api/db/BkkhConfigurationsDAO.class
+org/openmrs/module/bkkhconfig/BkkhConfigurations.class
+org/openmrs/module/bkkhconfig/BkkhConfigurationsActivator.class

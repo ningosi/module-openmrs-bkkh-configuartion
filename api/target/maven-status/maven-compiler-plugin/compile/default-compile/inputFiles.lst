@@ -1,0 +1,6 @@
+/home/codehub/workspace/bkkh/bkkhconfig/api/src/main/java/org/openmrs/module/bkkhconfig/BkkhConfigurationsActivator.java
+/home/codehub/workspace/bkkh/bkkhconfig/api/src/main/java/org/openmrs/module/bkkhconfig/api/BkkhConfigurationsService.java
+/home/codehub/workspace/bkkh/bkkhconfig/api/src/main/java/org/openmrs/module/bkkhconfig/BkkhConfigurations.java
+/home/codehub/workspace/bkkh/bkkhconfig/api/src/main/java/org/openmrs/module/bkkhconfig/api/impl/BkkhConfigurationsServiceImpl.java
+/home/codehub/workspace/bkkh/bkkhconfig/api/src/main/java/org/openmrs/module/bkkhconfig/api/db/BkkhConfigurationsDAO.java
+/home/codehub/workspace/bkkh/bkkhconfig/api/src/main/java/org/openmrs/module/bkkhconfig/api/db/hibernate/HibernateBkkhConfigurationsDAO.java
